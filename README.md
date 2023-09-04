@@ -1,3 +1,3 @@
-# animation-image
+# Animation d'une image
 
-![alt text](https://anom35/animation-image/blob/master/screen.jpg?raw=true)
+![Screenshot](screen.jpg)
